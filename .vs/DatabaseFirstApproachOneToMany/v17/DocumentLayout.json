@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\verve\\AppData\\Local\\Temp\\.vsdbgsrc\\ecc9a650057758527305bd1e3b90bda13b096efbea6e2b478fecaa7f4d9b021f\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\views\\author.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\views\\author.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|c:\\users\\verve\\source\\repos\\databasefirstapproachonetomany\\databasefirstapproachonetomany\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8DA743-B8F3-4B65-BEB9-66CBA8718AA3}|DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany.csproj|solutionrelative:databasefirstapproachonetomany\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Views\\Authors\\Create.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\Views\\Authors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Views\\Authors\\Create.cshtml",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\Views\\Authors\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T12:17:09.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\Program.cs",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Program.cs",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAApwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:32:51.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Views\\Authors\\Details.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\Views\\Authors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Views\\Authors\\Details.cshtml",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\Views\\Authors\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T12:18:42.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Views\\Authors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\Views\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Views\\Authors\\Edit.cshtml",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\Views\\Authors\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T12:18:43.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Models\\Category.cs",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:46:20.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\Views\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\Views\\Authors\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T12:16:58.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Models\\Author.cs",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:36:34.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\appsettings.json",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\appsettings.json",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T10:32:56.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\AppData\\Local\\Temp\\.vsdbgsrc\\ecc9a650057758527305bd1e3b90bda13b096efbea6e2b478fecaa7f4d9b021f\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ecc9a650057758527305bd1e3b90bda13b096efbea6e2b478fecaa7f4d9b021f\\Program.cs",
+              "ToolTip": "C:\\Users\\verve\\AppData\\Local\\Temp\\.vsdbgsrc\\ecc9a650057758527305bd1e3b90bda13b096efbea6e2b478fecaa7f4d9b021f\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ecc9a650057758527305bd1e3b90bda13b096efbea6e2b478fecaa7f4d9b021f\\Program.cs [Read Only]",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:27:10.485Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Models\\Book.cs",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:37:07.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Author.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Views\\Author.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\Views\\Author.cshtml",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Views\\Author.cshtml",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\Views\\Author.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T10:56:24.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:56:43.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstApproachOneToMany\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\verve\\source\\repos\\DatabaseFirstApproachOneToMany\\DatabaseFirstApproachOneToMany\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "DatabaseFirstApproachOneToMany\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:20:24.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
